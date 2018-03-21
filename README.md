@@ -1,0 +1,1 @@
+# First-in-First-out-page-replacement-algorithm-.
